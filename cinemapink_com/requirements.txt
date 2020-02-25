@@ -1,0 +1,4 @@
+# parse.py: 8
+bs4 == 0.0.1
+# parse.py: 9
+requests == 2.20.1

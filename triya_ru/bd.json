@@ -1,0 +1,18 @@
+{
+    "fieldValue": [
+        {
+            "key": "Размер",
+            "value": "Большой"
+        },
+        {
+            "key": "Длинна",
+            "value": "Длинный"
+        }
+    ],
+    "fieldSettings": {
+        "autoincrement": 1
+    }
+}
+
+таблица свойств - ke1b_site_tmplvar_contentvalues
+таблица категорий и товаров - ke1b_site_content

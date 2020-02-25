@@ -1,0 +1,8 @@
+{
+  "type": "scraper",
+  "runtime": "python-2.7",
+  "data": {
+    "format": "xml"
+  },
+  "command": "python parser.py --type atm"
+}

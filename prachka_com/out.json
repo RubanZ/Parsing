@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<companies>
+  <company>
+    <company-id>2</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_sadovaya28.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул. Садовая, д.30 </address>
+    <working-time lang="ru">ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.998144</lat>
+      <lon>30.13934</lon>
+    </coordinates>
+    <actualization-date>1559506392</actualization-date>
+  </company>
+  <company>
+    <company-id>3</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_sadovaya_32.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул. Садовая, д.32 </address>
+    <working-time lang="ru">ежедневно с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.929033</lat>
+      <lon>30.323683</lon>
+    </coordinates>
+    <actualization-date>1559506393</actualization-date>
+  </company>
+  <company>
+    <company-id>4</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_6-linia_9.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, 6-я линия В.О., д.9</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.937526</lat>
+      <lon>30.284643</lon>
+    </coordinates>
+    <actualization-date>1559506394</actualization-date>
+  </company>
+  <company>
+    <company-id>5</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_korablestroiteley_20.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул. Кораблестроителей, д.20-3. </address>
+    <working-time lang="ru">ежедневно с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.943656</lat>
+      <lon>30.212472</lon>
+    </coordinates>
+    <actualization-date>1559506395</actualization-date>
+  </company>
+  <company>
+    <company-id>6</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_sampsonievski_92.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Большой Сампсониевский пр., д.92 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.987717</lat>
+      <lon>30.333493</lon>
+    </coordinates>
+    <actualization-date>1559506396</actualization-date>
+  </company>
+  <company>
+    <company-id>7</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_vyborgskoe_shosse_33.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Выборгское шоссе, д.33</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>60.065539</lat>
+      <lon>30.303453</lon>
+    </coordinates>
+    <actualization-date>1559506397</actualization-date>
+  </company>
+  <company>
+    <company-id>8</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_kantemirovskaya_26.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул. Кантемировская, д.26 </address>
+    <working-time lang="ru">ежедневно с 09-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.985881</lat>
+      <lon>30.347237</lon>
+    </coordinates>
+    <actualization-date>1559506398</actualization-date>
+  </company>
+  <company>
+    <company-id>9</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_mega_parnas.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, "МЕГА Парнас" </address>
+    <working-time lang="ru"> ежедневно с 09:00 до 22:00</working-time>
+    <coordinates>
+      <lat>60.070796</lat>
+      <lon>30.338829</lon>
+    </coordinates>
+    <actualization-date>1559506399</actualization-date>
+  </company>
+  <company>
+    <company-id>10</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_engelsa_145.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пр. Энгельса, д.145, к.1 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>60.055538</lat>
+      <lon>30.338515</lon>
+    </coordinates>
+    <actualization-date>1559506400</actualization-date>
+  </company>
+  <company>
+    <company-id>11</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_nepokorennyh_2.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Пр. Непокоренных, д.2. </address>
+    <working-time lang="ru">ежедневно с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.998279</lat>
+      <lon>30.367386</lon>
+    </coordinates>
+    <actualization-date>1559506401</actualization-date>
+  </company>
+  <company>
+    <company-id>12</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_nepokorennyh_8.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Пр. Непокоренных, д.8/2.</address>
+    <working-time lang="ru">ежедневно с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.998945</lat>
+      <lon>30.374016</lon>
+    </coordinates>
+    <actualization-date>1559506402</actualization-date>
+  </company>
+  <company>
+    <company-id>13</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_avtovskaya_15.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Автовская ул., д.15</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.867462</lat>
+      <lon>30.268635</lon>
+    </coordinates>
+    <actualization-date>1559506403</actualization-date>
+  </company>
+  <company>
+    <company-id>14</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_stachek_105.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пр. Стачек, д.105, корп.1</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.855182</lat>
+      <lon>30.240562</lon>
+    </coordinates>
+    <actualization-date>1559506404</actualization-date>
+  </company>
+  <company>
+    <company-id>15</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_industrialny_34.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Индустриальный пр, д.34 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.952006</lat>
+      <lon>30.469489</lon>
+    </coordinates>
+    <actualization-date>1559506405</actualization-date>
+  </company>
+  <company>
+    <company-id>16</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_zvezdnaya_7.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Звёздная ул., д.7 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.833389</lat>
+      <lon>30.355628</lon>
+    </coordinates>
+    <actualization-date>1559506406</actualization-date>
+  </company>
+  <company>
+    <company-id>17</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_aushan_mega.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Мурманское шоссе, 12 км. </address>
+    <working-time lang="ru"> ежедневно  с 09-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.88869</lat>
+      <lon>30.510111</lon>
+    </coordinates>
+    <actualization-date>1559506407</actualization-date>
+  </company>
+  <company>
+    <company-id>18</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_oborony_116.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пр. Обуховской обороны, д.116.</address>
+    <working-time lang="ru">ежедневно с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.86443</lat>
+      <lon>30.472292</lon>
+    </coordinates>
+    <actualization-date>1559506408</actualization-date>
+  </company>
+  <company>
+    <company-id>19</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_pribrezhnaya_20.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Прибрежная ул., д.20 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 21-00</working-time>
+    <coordinates>
+      <lat>59.831752</lat>
+      <lon>30.505125</lon>
+    </coordinates>
+    <actualization-date>1559506409</actualization-date>
+  </company>
+  <company>
+    <company-id>20</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_monetnaya_34.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул. Большая Монетная, д.34 </address>
+    <working-time lang="ru">  ежедневно  с 10-00 до 22-00 </working-time>
+    <coordinates>
+      <lat>59.964052</lat>
+      <lon>30.328651</lon>
+    </coordinates>
+    <actualization-date>1559506410</actualization-date>
+  </company>
+  <company>
+    <company-id>21</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_pionerskaya_21.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул.Пионерская, д.21</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.958043</lat>
+      <lon>30.290922</lon>
+    </coordinates>
+    <actualization-date>1559506411</actualization-date>
+  </company>
+  <company>
+    <company-id>22</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_aviakonstruktorov_2.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пр.Авиаконструкторов, д.2. </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>60.009588</lat>
+      <lon>30.246231</lon>
+    </coordinates>
+    <actualization-date>1559506412</actualization-date>
+  </company>
+  <company>
+    <company-id>23</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_bogat_35.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Богатырский пр., д.35, корп.1.</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>60.003858</lat>
+      <lon>30.241928</lon>
+    </coordinates>
+    <actualization-date>1559506413</actualization-date>
+  </company>
+  <company>
+    <company-id>24</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_ispytateley_10.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пр. Испытателей, д.10 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>60.003669</lat>
+      <lon>30.287526</lon>
+    </coordinates>
+    <actualization-date>1559506414</actualization-date>
+  </company>
+  <company>
+    <company-id>25</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_buh_128.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Бухаресткая ул., д.128</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.840894</lat>
+      <lon>30.41232</lon>
+    </coordinates>
+    <actualization-date>1559506415</actualization-date>
+  </company>
+  <company>
+    <company-id>26</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_ligovskii_115.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Лиговский пр., д.115а</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.919067</lat>
+      <lon>30.352681</lon>
+    </coordinates>
+    <actualization-date>1559506416</actualization-date>
+  </company>
+  <company>
+    <company-id>27</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_marata-53.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, ул.Марата, 53</address>
+    <working-time lang="ru"> ежедневно  пон.-субб.: с 10-00 до 20-00, воскр.: с 10-00 до 19-00</working-time>
+    <coordinates>
+      <lat>59.922824</lat>
+      <lon>30.3496</lon>
+    </coordinates>
+    <actualization-date>1559506417</actualization-date>
+  </company>
+  <company>
+    <company-id>28</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_kolpino.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Колпино, Пролетарская ул., д.3.</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.740874</lat>
+      <lon>30.592423</lon>
+    </coordinates>
+    <actualization-date>1559506418</actualization-date>
+  </company>
+  <company>
+    <company-id>29</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_khalturina_1.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, Старый Петергоф, ул. Халтурина, д.1, к.3</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.8812</lat>
+      <lon>29.864294</lon>
+    </coordinates>
+    <actualization-date>1559506419</actualization-date>
+  </company>
+  <company>
+    <company-id>30</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_shushary_pervomayskaya_24.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, пос. Шушары, Первомайская ул., д.24 </address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.80712</lat>
+      <lon>30.371519</lon>
+    </coordinates>
+    <actualization-date>1559506420</actualization-date>
+  </company>
+  <company>
+    <company-id>31</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://www.prachka.com//prachechnaya_urizkogo_14.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Санкт-Петербург, г.Пушкин, Павильон Урицкого, д.14 .</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>59.732448</lat>
+      <lon>30.38502</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>32</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, Бориса Богаткова ул., д.210/1</address>
+    <working-time lang="ru">ежедневно с 09.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.036772</lat>
+      <lon>82.977680</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>33</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, Гусинобродское шоссе, д.20</address>
+    <working-time lang="ru">ежедневно с 09.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.035503</lat>
+      <lon>83.002939</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>34</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, ул. Залесского, д.5</address>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.067948</lat>
+      <lon>82.925597</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>35</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, ул.Блюхера, д.30</address>
+    <working-time lang="ru">ежедневно с 9-00 до 21-00</working-time>
+    <coordinates>
+      <lat>54.9886447</lat>
+      <lon>82.899391</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>36</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, Троллейная ул., д.130 А</address>
+    <working-time lang="ru">ежедневно с 9-00 до 21-00</working-time>
+    <coordinates>
+      <lat>54.96633644876213</lat>
+      <lon>82.85252744313038</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>37</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Новосибирск, ул. Геодезическая, д.4/1 (ТЦ Амстердам)</address>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>54.989863</lat>
+      <lon>82.903577</lon>
+    </coordinates>
+    <actualization-date>1559506421</actualization-date>
+  </company>
+  <company>
+    <company-id>38</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Казань, Товарищеская ул., д.27</address>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.78481</lat>
+      <lon>49.157744</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>39</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Казань, ул.Гагарина, д.91</address>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.83688444</lat>
+      <lon>49.08215014</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>40</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Казань, ул.Журналистов, д.2а</address>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>55.80625409</lat>
+      <lon>49.19147377</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>41</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://ekb.prachka.com/prachechnaya_gennina_43.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Екатеринбург, ул. Вильгельма де Геннина, д.43</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (343) 328 92 25</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 10.00 до 22.00</working-time>
+    <coordinates>
+      <lat>56.78929283</lat>
+      <lon>60.51802648</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>42</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://ekb.prachka.com/prachechnaya_scherbakova_4.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Екатеринбург, Щербакова ул., д.4, ТРК "Глобус"</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (343) 200 68 00</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 10.00 до 22.00</working-time>
+    <coordinates>
+      <lat>56.788596</lat>
+      <lon>60.648827</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>43</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://ekb.prachka.com/prachechnaya_bolshakova_75.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Екатеринбург, Большакова ул., д.75</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (343) 200 68 01</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 10.00 до 22.00</working-time>
+    <coordinates>
+      <lat>56.818069772810226</lat>
+      <lon>60.61164949999991</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>44</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://ekb.prachka.com/prachechnaya_kominterna_18.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Екатеринбург, Коминтерна ул., д.18</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (919) 397 03 36</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 10.00 до 22.00</working-time>
+    <coordinates>
+      <lat>56.83664335</lat>
+      <lon>60.65575433</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>45</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Брянск, Бежицкая ул., д.11, к.2</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (483) 234 53 40</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 9.00 до 21.00</working-time>
+    <coordinates>
+      <lat>53.27260613974468</lat>
+      <lon>34.34979245767204</lon>
+    </coordinates>
+    <actualization-date>1559506422</actualization-date>
+  </company>
+  <company>
+    <company-id>46</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Томск, ул.Вершинина, д.48</address>
+    <working-time lang="ru">ежедневно с 10.00 до 22.00</working-time>
+    <coordinates>
+      <lat>56.45977</lat>
+      <lon>84.963261</lon>
+    </coordinates>
+    <actualization-date>1559506423</actualization-date>
+  </company>
+  <company>
+    <company-id>47</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_energeticheskaya_12.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, Энергетическая ул, д.12, к.1 </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (925) 391-76-80</number>
+      <info/>
+    </phone>
+    <coordinates>
+      <lat>55.759375</lat>
+      <lon>37.707107</lon>
+    </coordinates>
+    <actualization-date>1559506424</actualization-date>
+  </company>
+  <company>
+    <company-id>48</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_studencheskaya_5.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, Студенческая ул., д.33, к.5 </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (926) 092-38-67</number>
+      <info/>
+    </phone>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>55.73926</lat>
+      <lon>37.542824</lon>
+    </coordinates>
+    <actualization-date>1559506425</actualization-date>
+  </company>
+  <company>
+    <company-id>49</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_profsoyuznaya_83.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, ул. Профсоюзная, д.83, к.2 </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (495) 789-18-82</number>
+      <info/>
+    </phone>
+    <working-time lang="ru"> ежедневно  с 09-00 до 22-00</working-time>
+    <coordinates>
+      <lat>55.645456</lat>
+      <lon>37.530355</lon>
+    </coordinates>
+    <actualization-date>1559506426</actualization-date>
+  </company>
+  <company>
+    <company-id>50</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_60_let_oktyabrya_11.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, пр. 60-летия Октября, д.11 </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (926) 092-38-71</number>
+      <info/>
+    </phone>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>55.69796</lat>
+      <lon>37.579124</lon>
+    </coordinates>
+    <actualization-date>1559506427</actualization-date>
+  </company>
+  <company>
+    <company-id>51</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_volgina_4.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, ул. академика Волгина, д.4 </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (495) 517-02-82</number>
+      <info/>
+    </phone>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>55.654701</lat>
+      <lon>37.520959</lon>
+    </coordinates>
+    <actualization-date>1559506428</actualization-date>
+  </company>
+  <company>
+    <company-id>52</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_khimki.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, Химки, Московская ул., 14а.</address>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00.</working-time>
+    <coordinates>
+      <lat>55.894111</lat>
+      <lon>37.449803</lon>
+    </coordinates>
+    <actualization-date>1559506429</actualization-date>
+  </company>
+  <company>
+    <company-id>53</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_odinzovo.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, Одинцово, Можайское шоссе, 122.  </address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (495) 255 11 37</number>
+      <info/>
+    </phone>
+    <working-time lang="ru">ежедневно с 09-00 до 21-00</working-time>
+    <coordinates>
+      <lat>55.685828</lat>
+      <lon>37.306953</lon>
+    </coordinates>
+    <actualization-date>1559506430</actualization-date>
+  </company>
+  <company>
+    <company-id>54</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <add-url>https://msk.prachka.com//prachechnaya_yunosti_9.html</add-url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Москва, Зеленоград, ул. Юности, д.9</address>
+    <phone>
+      <ext/>
+      <type>phone</type>
+      <number>+7 (926) 115-20-35</number>
+      <info/>
+    </phone>
+    <working-time lang="ru"> ежедневно  с 10-00 до 22-00</working-time>
+    <coordinates>
+      <lat>55.998081</lat>
+      <lon>37.22447</lon>
+    </coordinates>
+    <actualization-date>1559506431</actualization-date>
+  </company>
+  <company>
+    <company-id>55</company-id>
+    <rubric-id>184108217</rubric-id>
+    <url>https://www.prachka.com</url>
+    <name lang="ru">Prachka.com</name>
+    <country lang="ru">Россия</country>
+    <address lang="ru">Омск, бульвар Архитекторов, д.35 (ТЦ МЕГА)</address>
+    <working-time lang="ru">ежедневно с 9.00 до 22.00</working-time>
+    <coordinates>
+      <lat>54.972214220951386</lat>
+      <lon>73.28367824649814</lon>
+    </coordinates>
+    <actualization-date>1559506431</actualization-date>
+  </company>
+</companies>
+

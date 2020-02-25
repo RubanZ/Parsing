@@ -1,0 +1,4 @@
+requests
+lxml
+scrapy
+service_identity

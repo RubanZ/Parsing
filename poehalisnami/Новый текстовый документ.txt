@@ -1,0 +1,25 @@
+
+        # for office in data['OfficeList']:  # type: dict
+        #     result = {
+        #         'actualization_date': str(int(time.time())),
+        #         'company-id': str(self.iter),
+        #         'url': office['DetailUrl'],
+        #         'lat': office['Latitude'],
+        #         'lon': office['Longitude'],
+        #         'working_time', {'#content': "", '@lang': "ru"},
+        #         'address_add': {'#content': string, '@lang': string}
+        #         'address': {'#content': string, '@lang': string}
+        #         'country': {'#content': u"Украина", '@lang': "ru"},
+        #         'name_other': {'#content': string, '@lang': string}
+        #         'name': {'#content': u"Поехали с нами", '@lang': "ru"},
+
+        #         'add_url': add_url,
+        #         'phone' [dict], {'number': office['Phone'], 'add_number': string, type: string}
+        #     }
+        #     self.iter += 1
+
+var Rcl = {"ajaxurl":"https://mywater24.ru\/wp-admin\/admin-ajax.php",
+"wpurl":"https:\/\/mywater24.ru",
+"rcl_url":"https:\/\/mywater24.ru\/wp-content\/plugins\/wp-recall\/",
+"user_ID":"0","nonce":"ba099a4385","local":{"save":"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","wait":"\u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435","preview":"\u041f\u0440\u0435\u0434\u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440","error":"\u041e\u0448\u0438\u0431\u043a\u0430","loading":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430","upload":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c","requared_fields_empty":"\u0417\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0432\u0441\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u043b\u044f","no_repeat_pass":"\u041f\u043e\u0432\u0442\u043e\u0440 \u043f\u0430\u0440\u043e\u043b\u044f \u043d\u0435 \u0432\u0435\u0440\u043d\u044b\u0439!","empty_mess":"\u041d\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u0445\u043e\u0442\u044c \u0447\u0442\u043e-\u0442\u043e","max_words":"\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f","upload_size_chat":"\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d \u043c\u0430\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0444\u0430\u0439\u043b\u0430! \u041c\u0430\u043a\u0441. 2 \u041c\u0411"},"mobile":"0","https":"0","slider":"''","chat":{"sounds":"https:\/\/mywater24.ru\/wp-content\/plugins\/wp-recall\/add-on\/rcl-chat\/sounds\/","delay":"15","inactivity":"10","file_size":"2"},"account":{"currency":"<i class=\"fa fa-rub\"><\/i>","balance":null},"post_ID":"13","office_ID":"0"};
+/* ]]> */
