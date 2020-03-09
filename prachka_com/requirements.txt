@@ -5,4 +5,4 @@ fake_useragent == 0.1.7
 # parse.py: 10
 lxml == 4.0.0
 # parse.py: 8
-requests == 2.18.4
+requests == 2.20.0
