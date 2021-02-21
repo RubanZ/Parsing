@@ -25,13 +25,13 @@ class EdaSpider(scrapy.Spider):
         soup = BeautifulSoup(data['Html'], 'html.parser')
         title =  soup.select('div[class=clearfix]')
         for elem in title:
-            # self.log(elem.select_one('p'))
             
             result = {
                 "title": elem.select_one('div[data-title]').get('data-title'),
                 "category": self.type_recipes(elem),
                 "img": elem.select_one('div[data-title]').get('data-src'),
                 "prep-time": self.prep_time_parse(elem),
+                "portions": self.portions_parse(elem),
                 "ingredients": self.ingredients_list(elem),
                 "author" : self.author_parse(elem),
                 "link": self.link_parse(elem)
@@ -39,12 +39,6 @@ class EdaSpider(scrapy.Spider):
             with open("result.json", "a", encoding='utf-8') as text_file:
                 print(json.dumps(result, ensure_ascii=False), file=text_file)
 
-        # self.log(data['HasMore'])
-        # with open("result.html", "a", encoding='utf-8') as text_file:
-        #     print("{}".format(data['Html']), file=text_file)
-        # # with open(filename, 'ab') as f:
-        # #     f.write(data['Html'])
-        # # self.recipes += 1
         self.log(f'Saved file')
 
     def type_recipes(self, data):
@@ -127,6 +121,20 @@ class EdaSpider(scrapy.Spider):
             msg = data.select_one('[class~=prep-time]').get_text()
             msg = msg.replace("\n\n\n\r\n            ", "")
             msg = msg.replace("\r\n\r\n          ", "")
+            return msg
+        except:
+            return None
+    def portions_parse(self, data):
+        try:
+            msg = data.select_one('[class~=js-portions-count-print]').get_text()
+            msg = msg.replace("\r\n            ", "")
+            msg = msg.replace("\r\n          ", "")
+            if (msg.find(" порции") > -1):
+                msg = msg.replace(" порции", "")
+            if (msg.find(" порция") > -1):
+                msg = msg.replace(" порция", "")
+            if (msg.find(" порций") > -1):
+                msg = msg.replace(" порций", "")
             return msg
         except:
             return None
