@@ -1,6 +1,6 @@
 # parse.py: 8
 bs4 == 0.0.1
 # parse.py: 10
-lxml == 4.0.0
+lxml == 4.6.3
 # parse.py: 9
 requests == 2.18.4
