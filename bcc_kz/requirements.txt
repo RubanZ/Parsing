@@ -2,4 +2,4 @@
 # bcc_kz\middlewares.py: 8
 # bcc_kz\spiders\bcc_kz_atms.py: 7
 # bcc_kz\spiders\bcc_kz_branches.py: 7
-Scrapy == 1.5.1
+Scrapy == 1.8.1
