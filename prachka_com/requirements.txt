@@ -3,6 +3,6 @@ beautifulsoup4 == 4.6.0
 # parse.py: 9
 fake_useragent == 0.1.7
 # parse.py: 10
-lxml == 4.0.0
+lxml == 4.9.1
 # parse.py: 8
 requests == 2.18.4
